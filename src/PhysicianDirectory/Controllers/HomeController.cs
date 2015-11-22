@@ -16,7 +16,7 @@ namespace PhysicianDirectory.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
-
+            ViewData["Author"] = "James Randall";
             return View();
         }
 
