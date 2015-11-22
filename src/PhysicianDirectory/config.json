@@ -1,0 +1,10 @@
+{
+  "ApplicationInsights": {
+    "InstrumentationKey": "67d2f860-3f38-4ab7-8a04-ddb2885cdc53"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-PhysicianDirectory-df1eff67-90a6-4d90-8407-5cf45eef26ee;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}

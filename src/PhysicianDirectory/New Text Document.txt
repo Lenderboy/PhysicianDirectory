@@ -1,0 +1,3 @@
+http://app.pluralsight.com/training/player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
+
+Pluralsite tutorial
